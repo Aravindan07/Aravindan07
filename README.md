@@ -14,25 +14,31 @@
 
 #### Tech Knowledge
 
-- HTML5
-- CSS3
-- Javascript
-- Typescript
-- ReactJs `<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40mathanjeya%2Fget-started-in-react-28b2afa437ff&psig=AOvVaw3Wfx5Skp89LsijRLyCFa2F&ust=1667202829076000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLiE9tS8h_sCFQAAAAAdAAAAABAE" data-canonical-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40mathanjeya%2Fget-started-in-react-28b2afa437ff&psig=AOvVaw3Wfx5Skp89LsijRLyCFa2F&ust=1667202829076000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLiE9tS8h_sCFQAAAAAdAAAAABAE" width="100" height="100">`
-- NextJs
-- React Native
-- NodeJs
-- ExpressJs
-- MongoDB
-- AWS
-- Github
-- VSCode
+- HTML5 <img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/>
+- CSS3 <img align="center" height="30" src="https://img.icons8.com/fluency/48/000000/css3.png"/>
+- Javascript <img align="center" height="30" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+- Typescript <img align="center" height="30" src="https://img.icons8.com/fluency/48/000000/typescript--v1.png"/>
+- ReactJs <img align="center" height="30" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+- NextJs <img align="center" height="30" src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+- React Native <img align="center" height="30" src="https://img.icons8.com/nolan/64/react-native.png"/>
+- NodeJs <img align="center" height="30" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+- ExpressJs <img align="center" height="30" src="https://img.icons8.com/ios/50/000000/express-js.png"/>
+- MongoDB <img align="center" height="30" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+- Firebase <img align="center" height="30" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+- AWS <img align="center" height="30" src="https://img.icons8.com/windows/32/FFFFFF/amazon-web-services.png"/>
+- Github <img align="center" height="30" src="https://img.icons8.com/nolan/64/github.png"/>
+- VSCode <img align="center" height="30" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 
 #### How to reach me 📱
 
-- [linkedin](https://www.linkedin.com/in/aravindan33/)
-- [twitter](https://twitter.com/aravindan_33)
-- [email](mailto:abc@example.com)
+[<img align="center" height="40" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>](mailto:abc@example.com)&nbsp;&nbsp;
+[<img align="center" height="40" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>](https://www.linkedin.com/in/aravindan33/)&nbsp;&nbsp;
+[<img align="center" height="40" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>](https://twitter.com/aravindan_33)&nbsp;&nbsp;
+[<img align="center" height="40" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/i_m_aravind33/)
+
+🤙🏻 hit me up for anything related to software engineering
+
+P.S: Please call me as `aravind` and not `aravindan`
 
 <!--
 **Aravindan07/Aravindan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
