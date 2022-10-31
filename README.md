@@ -31,7 +31,7 @@
 
 #### How to reach me 📱
 
-[<img align="center" height="40" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>](mailto:abc@example.com)&nbsp;&nbsp;
+[<img align="center" height="40" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>](mailto:aravindanravi33@gmail.com)&nbsp;&nbsp;
 [<img align="center" height="40" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>](https://www.linkedin.com/in/aravindan33/)&nbsp;&nbsp;
 [<img align="center" height="40" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>](https://twitter.com/aravindan_33)&nbsp;&nbsp;
 [<img align="center" height="40" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/i_m_aravind33/)
