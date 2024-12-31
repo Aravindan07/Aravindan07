@@ -6,11 +6,11 @@
 
 - Currently working as a software engineer 👨🏻‍💻
 - Loves to explore new technologies and innovations ☎️
-- Die hard fan of cricket 🏏
+- Die-hard fan of cricket 🏏
 - Loves to do star-gazing ✨
 - Prefers outdoor games 🤼‍♂️ rather than indoor games 🎲
 - My favorite quote ⚡️ -> `MILLIONS SAW THE APPLE FALL, BUT NEWTON ASKED WHY` by [Bernard Baruch](https://en.wikipedia.org/wiki/Bernard_Baruch)
-- [My Portfolio](https://aravind-portfolio.netlify.app/)
+<!-- - [My Portfolio](https://aravind-portfolio.netlify.app/) -->
 
 #### Tech Knowledge
 
@@ -34,9 +34,9 @@
 [<img align="center" height="40" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>](mailto:aravindanravi33@gmail.com)&nbsp;&nbsp;
 [<img align="center" height="40" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>](https://www.linkedin.com/in/aravindan33/)&nbsp;&nbsp;
 [<img align="center" height="40" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>](https://twitter.com/aravindan_33)&nbsp;&nbsp;
-[<img align="center" height="40" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/i_m_aravind33/)
+<!-- [<img align="center" height="40" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/i_m_aravind33/) -->
 
-🤙🏻 hit me up for anything related to software engineering
+🤙🏻 Hit me up for anything related to software engineering
 
 P.S: Please call me as `aravind` and not `aravindan`
 
